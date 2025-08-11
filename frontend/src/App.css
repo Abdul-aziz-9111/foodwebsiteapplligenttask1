@@ -1,0 +1,88 @@
+
+@media screen and (max-width:400px){
+    body{
+        background-color: rgb(255, 255, 255) !important;
+   
+    }
+    .navbar{
+        box-shadow: 2px 2px 2px rgb(117, 119, 117) !important;
+        width:99vw !important;
+        height:60px !important;
+   
+    }
+    
+    .navbar img{
+        height:20px !important;
+        width:80px  !important;
+    margin:2.5% !important;
+    }
+    .navbar input{
+        font-size:10px !important;
+        
+        height:37px !important;
+        
+        border:1px solid  rgb(197, 193, 193) !important;
+        width:50vw !important;
+    }
+    .navbar i{
+        margin-left:-48.8% !important;
+        margin-top:2.8% !important;
+        font-size:17px !important;
+        
+    }
+    #menu{
+        
+        display: block !important;
+    color: rgb(14, 14, 14) !important;
+    font-size:20px !important;
+    margin-left:4% !important;
+    
+    }
+    .navbar h3{
+        display: none !important;
+    }
+    .hero{
+        margin-top:6.6% !important;
+        display: flex !important;
+    flex-direction: column !important;
+    }
+    
+    #main{
+        width:100vw !important;
+     border:1px solid rgb(240, 235, 235) !important;       
+    }
+    #main h3{
+        color:rgb(58, 50, 50) !important;
+        font-size:29px !important;
+        text-align: center  !important;
+    font-style: normal !important;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important; 
+margin-left:4% !important;
+}
+    #main img{
+    height:260px !important;
+    width:265px !important;
+   margin-left:12% !important;
+   box-shadow: 1px 1px 1px 3px rgb(190, 190, 190) !important;
+border-radius: 2% !important;
+}
+#main img:hover{
+    transform: scale(0.9) !important;  
+
+}
+    #main button{
+    margin-left: 30% !important;
+    border-radius: 5px !important;
+    width:40vw !important;
+    background-color: rgb(255, 10, 10) !important;
+color:black !important;
+font-weight: bolder !important;
+font-size:24px !important;
+margin-top:1% !important;    
+}
+    #main h4{
+        color:rgb(58, 44, 44);
+    text-align: center !important;
+    }
+
+}
